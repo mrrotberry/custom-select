@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://mrrotberry.github.io/custom-select/",
+  "homepage": "https://mrrotberry.github.io",
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
     "react": "^17.0.2",
